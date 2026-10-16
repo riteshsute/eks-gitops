@@ -5,3 +5,8 @@
 .kube/
 
 *.swp
+
+# Vim temporary swap files
+*.swp
+*.swo
+*.swn
